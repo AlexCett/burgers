@@ -1,5 +1,6 @@
 steak
-cheeze
+salade
+tomates
 oignons
 cornichons
 ketchup
